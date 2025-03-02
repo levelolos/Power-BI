@@ -1,2 +1,2 @@
-# Power-BI
-Dashboard with PowerBI
+
+An interactive dashboard with PowerBI
